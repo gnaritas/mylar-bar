@@ -1,0 +1,9 @@
+{
+  "name": "mylar-bar",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Mylar Bar (1638 S. Ninth St., Philadelphia PA 19148) — South Philly cocktail bar in the old Dino's Party Center (websites lane)",
+  "main": "server.js",
+  "engines": { "node": ">=20" },
+  "scripts": { "start": "node server.js" }
+}
